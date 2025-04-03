@@ -1,0 +1,36 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Post Terms
+--------------------------------------------------------------------------------*/
+.post-terms {
+  margin: 0;
+  position: relative;
+  clear: both;
+  font-family: "Overpass Mono", monospace;
+}
+
+.post-terms .term-type {
+  color: #ffffff;
+  background: #000000;
+}
+
+.post-terms .term-type i {
+  margin-top: 5px;
+}
+
+.post-terms.tags span.term-type {
+  border: none;
+}
+
+.post-terms.tags a:hover,
+.post-terms.tags a:focus,
+.post-terms.tags a:active {
+  border-color: #e53935;
+}

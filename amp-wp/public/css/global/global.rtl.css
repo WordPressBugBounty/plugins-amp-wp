@@ -1,0 +1,139 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Global RTL
+* These are the RTL styles that will load by default all over the AMP site.
+--------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------
+=> Table of Contents:
+--------------------------------------------------------------------------------
+## Reset
+## Typography
+## Image Holder
+## Content Holder
+## Header
+## Footer
+## Page Header
+## Post Meta
+## Carousel
+## Comments
+------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------
+## Global RTL -> Reset
+------------------------------------------------------------------------------*/
+body {
+  direction: rtl;
+}
+
+/*------------------------------------------------------------------------------
+## Global RTL -> Typography
+------------------------------------------------------------------------------*/
+blockquote {
+  padding: 15px 60px 15px 15px;
+  text-align: right;
+}
+blockquote:before {
+  right: 12px;
+  left: auto;
+}
+
+/*------------------------------------------------------------------------------
+## Global RTL -> Image Holder
+------------------------------------------------------------------------------*/
+.img-holder {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+/*------------------------------------------------------------------------------
+## Global RTL -> Content Holder
+------------------------------------------------------------------------------*/
+.content-holder {
+  left: auto;
+  right: 0;
+}
+
+/*------------------------------------------------------------------------------
+## Global RTL -> Header
+------------------------------------------------------------------------------*/
+.site-header {
+  /* header buttons */
+}
+.site-header .logo a {
+  margin-right: 20px;
+  text-align: right;
+}
+.site-header .elements {
+  margin-left: 10px;
+  margin-right: auto;
+}
+.site-header .branding {
+  text-align: right;
+  right: 25px;
+  left: auto;
+}
+.site-header .navbar-search {
+  left: 47px;
+  right: auto;
+}
+.site-header .navbar-toggle {
+  right: auto;
+  left: 0;
+}
+
+/*------------------------------------------------------------------------------
+## Global RTL -> Footer
+------------------------------------------------------------------------------*/
+.footer-navigation .fa {
+  margin-left: 5px;
+  margin-right: auto;
+}
+
+.amp-wp-main-link a .fa {
+  margin-left: 5px;
+  margin-right: auto;
+}
+
+/*------------------------------------------------------------------------------
+## Global RTL -> Page Header
+------------------------------------------------------------------------------*/
+.archive-wrapper .page-title {
+  margin: 10 0 0 0;
+}
+.archive-wrapper .page-title .fa {
+  margin-left: 10px;
+  margin-right: initial;
+}
+
+/*------------------------------------------------------------------------------
+## Global RTL -> Post Meta
+------------------------------------------------------------------------------*/
+.post-meta {
+  text-align: right;
+}
+
+/*------------------------------------------------------------------------------
+## Global RTL -> Carousel
+------------------------------------------------------------------------------*/
+.carousel .carousel-item {
+  margin-left: 20px;
+  margin-right: auto;
+}
+.carousel .carousel-item:last-child {
+  margin-left: 0;
+  margin-right: auto;
+}
+.carousel .content-holder {
+  left: auto;
+  right: auto;
+  float: right;
+}
+.carousel .content-holder .post-meta {
+  text-align: right;
+}

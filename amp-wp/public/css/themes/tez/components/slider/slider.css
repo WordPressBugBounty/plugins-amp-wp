@@ -1,0 +1,61 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Slider
+--------------------------------------------------------------------------------*/
+.homepage-slider {
+  margin: 0 auto;
+}
+
+.amp-slider {
+  background: #ffffff;
+  direction: ltr;
+}
+.amp-slider a {
+  text-decoration: none;
+}
+.amp-slider .img-holder {
+  width: 100%;
+  margin-right: 0;
+  margin-bottom: 0;
+  padding-top: 100%;
+}
+.amp-slider .img-holder:before {
+  padding-top: 0;
+}
+.amp-slider .content-holder {
+  bottom: 0;
+}
+.amp-slider .content-holder .slider-meta {
+  font-family: "Overpass Mono", monospace;
+  font-size: 14px;
+  color: #9f9f9f;
+  margin-bottom: 10px;
+}
+.amp-slider .content-holder .slider-meta a.author {
+  font-weight: 700;
+  text-decoration: underline;
+}
+.amp-slider .content-holder .slider-meta a h3 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 1.25;
+}
+.amp-slider .amp-carousel-button-prev,
+.amp-slider .amp-carousel-button-next {
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+/*--------------------------------------------------------------------------------
+# Slider -> RTL
+--------------------------------------------------------------------------------*/
+.rtl .amp-featured-slider .content-holder {
+  direction: rtl;
+}

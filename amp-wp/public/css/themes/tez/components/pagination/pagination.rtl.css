@@ -1,0 +1,40 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Pagination -> RTL
+--------------------------------------------------------------------------------*/
+.pagination .nav-links .page-numbers.prev {
+  float: right;
+}
+
+.pagination .nav-links .page-numbers.next {
+  float: left;
+}
+
+.pagination .nav-links .page-numbers.prev .fa {
+  margin-left: 7px;
+  margin-right: initial;
+}
+
+.pagination .nav-links .page-numbers.next .fa {
+  margin-right: 7px;
+  margin-left: initial;
+}
+
+.pagination .nav-links .page-numbers.current:first-child {
+  float: right;
+}
+
+.pagination .newer {
+  float: left;
+}
+
+.pagination .older {
+  float: right;
+}

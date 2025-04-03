@@ -1,0 +1,29 @@
+/*-------------------------------------------------------------------------------------------
+# AMP WP Admin  Image Radio Buttons
+-------------------------------------------------------------------------------------------*/
+.image_radio_button_control .radio-button-label {
+  position: relative;
+  display: block;
+  margin-bottom: 10px;
+  -webkit-transition: opacity .3s;
+  -o-transition: opacity .3s;
+  transition: opacity .3s;
+  opacity: 1;
+}
+
+.image_radio_button_control .radio-button-label:last-child {
+  margin-bottom: 0;
+}
+
+.image_radio_button_control .radio-button-label > input {
+  display: none;
+}
+
+.image_radio_button_control .radio-button-label > img {
+  cursor: pointer;
+  border: 3px solid #dddddd;
+}
+
+.image_radio_button_control .radio-button-label > input:checked + img {
+  border: 3px solid #23282D;
+}

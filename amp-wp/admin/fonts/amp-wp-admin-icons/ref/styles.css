@@ -1,0 +1,239 @@
+@font-face {
+  font-family: "amp-wp-admin-icons";
+  src:url("fonts/amp-wp-admin-icons.eot");
+  src:url("fonts/amp-wp-admin-icons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/amp-wp-admin-icons.woff") format("woff"),
+    url("fonts/amp-wp-admin-icons.ttf") format("truetype"),
+    url("fonts/amp-wp-admin-icons.svg#amp-wp-admin-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "amp-wp-admin-icons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="amp-wp-admin-icon-"]:before,
+[class*=" amp-wp-admin-icon-"]:before {
+  font-family: "amp-wp-admin-icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.amp-wp-admin-icon-settings:before {
+  content: "\62";
+}
+.amp-wp-admin-icon-gears-setting-1:before {
+  content: "\63";
+}
+.amp-wp-admin-icon-send-to-front:before {
+  content: "\64";
+}
+.amp-wp-admin-icon-send-to-back:before {
+  content: "\65";
+}
+.amp-wp-admin-icon-layers:before {
+  content: "\66";
+}
+.amp-wp-admin-icon-layers-1:before {
+  content: "\67";
+}
+.amp-wp-admin-icon-layers-2:before {
+  content: "\6a";
+}
+.amp-wp-admin-icon-paint-brush-2:before {
+  content: "\6f";
+}
+.amp-wp-admin-icon-area-chart:before {
+  content: "\71";
+}
+.amp-wp-admin-icon-globe:before {
+  content: "\73";
+}
+.amp-wp-admin-icon-bell:before {
+  content: "\74";
+}
+.amp-wp-admin-icon-notification:before {
+  content: "\76";
+}
+.amp-wp-admin-icon-cogs:before {
+  content: "\77";
+}
+.amp-wp-admin-icon-cog:before {
+  content: "\78";
+}
+.amp-wp-admin-icon-wrench:before {
+  content: "\42";
+}
+.amp-wp-admin-icon-cog-gear:before {
+  content: "\43";
+}
+.amp-wp-admin-icon-file:before {
+  content: "\61";
+}
+.amp-wp-admin-icon-file-text:before {
+  content: "\68";
+}
+.amp-wp-admin-icon-document-file-1:before {
+  content: "\69";
+}
+.amp-wp-admin-icon-pin:before {
+  content: "\6c";
+}
+.amp-wp-admin-icon-pin-map-2:before {
+  content: "\6d";
+}
+.amp-wp-admin-icon-home:before {
+  content: "\70";
+}
+.amp-wp-admin-icon-home-1:before {
+  content: "\72";
+}
+.amp-wp-admin-icon-archive:before {
+  content: "\75";
+}
+.amp-wp-admin-icon-search:before {
+  content: "\7a";
+}
+.amp-wp-admin-icon-info-circle:before {
+  content: "\6e";
+}
+.amp-wp-admin-icon-info-with-circle:before {
+  content: "\44";
+}
+.amp-wp-admin-icon-user:before {
+  content: "\6b";
+}
+.amp-wp-admin-icon-users:before {
+  content: "\79";
+}
+.amp-wp-admin-icon-user-1:before {
+  content: "\41";
+}
+.amp-wp-admin-icon-information-white:before {
+  content: "\45";
+}
+.amp-wp-admin-icon-info:before {
+  content: "\46";
+}
+.amp-wp-admin-icon-compose:before {
+  content: "\47";
+}
+.amp-wp-admin-icon-calendar:before {
+  content: "\48";
+}
+.amp-wp-admin-icon-browser:before {
+  content: "\49";
+}
+.amp-wp-admin-icon-add:before {
+  content: "\4a";
+}
+.amp-wp-admin-icon-calculator-2:before {
+  content: "\4b";
+}
+.amp-wp-admin-icon-grid-alt:before {
+  content: "\4c";
+}
+.amp-wp-admin-icon-grid:before {
+  content: "\4d";
+}
+.amp-wp-admin-icon-globe-1:before {
+  content: "\4e";
+}
+.amp-wp-admin-icon-home-2:before {
+  content: "\4f";
+}
+.amp-wp-admin-icon-ipad:before {
+  content: "\50";
+}
+.amp-wp-admin-icon-menu:before {
+  content: "\51";
+}
+.amp-wp-admin-icon-list:before {
+  content: "\52";
+}
+.amp-wp-admin-icon-maximize:before {
+  content: "\53";
+}
+.amp-wp-admin-icon-windows:before {
+  content: "\54";
+}
+.amp-wp-admin-icon-exclamation:before {
+  content: "\55";
+}
+.amp-wp-admin-icon-comments:before {
+  content: "\56";
+}
+.amp-wp-admin-icon-envelope:before {
+  content: "\57";
+}
+.amp-wp-admin-icon-settings-1:before {
+  content: "\58";
+}
+.amp-wp-admin-icon-task:before {
+  content: "\59";
+}
+.amp-wp-admin-icon-screen:before {
+  content: "\5a";
+}
+.amp-wp-admin-icon-attachment:before {
+  content: "\30";
+}
+.amp-wp-admin-icon-forbid-1:before {
+  content: "\31";
+}
+.amp-wp-admin-icon-inbox:before {
+  content: "\32";
+}
+.amp-wp-admin-icon-hyperlink:before {
+  content: "\33";
+}
+.amp-wp-admin-icon-newspaper:before {
+  content: "\34";
+}
+.amp-wp-admin-icon-newspaper-alt:before {
+  content: "\35";
+}
+.amp-wp-admin-icon-portfolio:before {
+  content: "\36";
+}
+.amp-wp-admin-icon-heart:before {
+  content: "\37";
+}
+.amp-wp-admin-icon-chat:before {
+  content: "\38";
+}
+.amp-wp-admin-icon-circle-full:before {
+  content: "\39";
+}
+.amp-wp-admin-icon-question:before {
+  content: "\21";
+}
+.amp-wp-admin-icon-feather:before {
+  content: "\22";
+}
+.amp-wp-admin-icon-clipboard:before {
+  content: "\23";
+}
+.amp-wp-admin-icon-spinner:before {
+  content: "\24";
+}
+.amp-wp-admin-icon-gallary:before {
+  content: "\25";
+}

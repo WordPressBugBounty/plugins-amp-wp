@@ -1,0 +1,51 @@
+/*-------------------------------------------------------------------------------------------
+# AMP WP Admin Accordions
+-------------------------------------------------------------------------------------------*/
+.single-accordion-toggle {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  padding: 10px 5px 5px 0;
+  cursor: pointer;
+}
+
+.accordion-icon-toggle {
+  font-size: 18px;
+  margin-left: 5px;
+  margin-top: 5px;
+  -webkit-transition: -webkit-transform 0.3s ease-in-out;
+  transition: -webkit-transform 0.3s ease-in-out;
+  -o-transition: transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+}
+
+.single-accordion-toggle-rotate .accordion-icon-toggle {
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  display: inline-block;
+}
+
+.single-accordion {
+  display: none;
+}
+
+.single-accordion ul {
+  margin: 0;
+  padding: 0;
+}
+
+.single-accordion ul li {
+  background-color: #eeeeee;
+  color: #72777c;
+  width: 115px;
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
+
+.single-accordion ul li i {
+  margin-left: 5px;
+}

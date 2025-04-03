@@ -1,0 +1,81 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Pagination
+--------------------------------------------------------------------------------*/
+.pagination {
+  display: block !important;
+  line-height: 28px;
+  margin: 0 0 30px;
+  height: 30px;
+}
+
+.pagination .nav-links {
+  padding: 0;
+  font-size: 14px;
+  color: #9f9f9f;
+  text-align: center;
+}
+
+.pagination .nav-links .page-numbers,
+.pagination h2,
+.pagination > .screen-reader-text {
+  display: none;
+}
+
+.pagination .nav-links .page-numbers.prev, .pagination .nav-links .page-numbers.current, .pagination .nav-links .page-numbers.next {
+  display: inline-block;
+}
+
+.pagination .nav-links .page-numbers.prev, .pagination .nav-links .page-numbers.next {
+  padding: 0 13px;
+  background: #e53935;
+  border-radius: 50px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.pagination .nav-links .page-numbers.prev {
+  float: left;
+}
+
+.pagination .nav-links .page-numbers.prev .fa {
+  margin-right: 7px;
+}
+
+.pagination .nav-links .page-numbers.next {
+  float: right;
+}
+
+.pagination .nav-links .page-numbers.next .fa {
+  margin-left: 7px;
+}
+
+.pagination .nav-links .page-numbers.current:first-child {
+  float: left;
+}
+
+.pagination .nav-links .page-numbers.current:last-child {
+  float: right;
+}
+
+.pagination .newer {
+  float: right;
+}
+
+.pagination .older {
+  float: left;
+}
+
+.navigation.pagination .nav-links {
+  border: 0 !important;
+}

@@ -1,0 +1,39 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Social List -> RTL
+--------------------------------------------------------------------------------*/
+.amp-social-list-wrapper .number {
+  margin: 0 4px 0 0;
+}
+
+.amp-social-list-wrapper .post-share-btn {
+  margin-left: 8px;
+  margin-right: initial;
+}
+
+.amp-social-list-wrapper .post-share-btn .text {
+  margin-right: 3px;
+  margin-left: initial;
+}
+
+.amp-social-list-wrapper ul.social-list li {
+  margin-left: 6px;
+  margin-right: initial;
+}
+
+.amp-social-list-wrapper ul.social-list li:last-child {
+  margin-left: 0;
+  margin-right: initial;
+}
+
+.amp-social-list-wrapper ul.social-list li.has-count .fa {
+  margin-left: 1px;
+  margin-right: initial;
+}

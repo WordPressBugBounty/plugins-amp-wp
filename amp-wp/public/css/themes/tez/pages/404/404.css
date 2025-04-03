@@ -1,0 +1,34 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# 404 Page
+--------------------------------------------------------------------------------*/
+.error-404 {
+  background: red;
+  padding: 40px 20px;
+  margin: 40px 0;
+  background: #fff;
+  font-size: 25px;
+  font-weight: 500;
+  border: 1px solid #e7e7e7;
+  position: relative;
+  text-align: center;
+}
+
+.error-404 .page-title {
+  font-size: 70px;
+  font-weight: 600;
+  line-height: 70px;
+  margin: 0 0 15px;
+}
+
+.error-404 .lead {
+  font-size: 18px;
+  margin: 0;
+}

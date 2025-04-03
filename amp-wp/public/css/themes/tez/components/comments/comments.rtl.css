@@ -1,0 +1,27 @@
+/*------------------------------------------------------------------------------
+## Global RTL -> Comments
+------------------------------------------------------------------------------*/
+.comment .column-1 {
+  float: right;
+}
+
+.comment .column-2 {
+  padding-right: 75px;
+  padding-left: 0;
+}
+
+.comment .comment-footer a,
+.comment .comment-footer .fa {
+  float: right;
+  margin-left: 10px;
+  line-height: 18px;
+}
+
+.comments-pagination a {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.amp-wp-comments-wrapper .amp-btn.add-comment {
+  float: left;
+}

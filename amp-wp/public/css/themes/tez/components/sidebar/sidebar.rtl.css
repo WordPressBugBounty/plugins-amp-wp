@@ -1,0 +1,44 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Sidebar -> RTL
+--------------------------------------------------------------------------------*/
+.amp-wp-sidebar .close-sidebar {
+  left: auto;
+  right: 10px;
+}
+
+.amp-wp-sidebar .sidebar-container .amp-menu section[expanded] {
+  padding-right: 10px;
+  padding-left: 0;
+}
+
+.amp-wp-sidebar .sidebar-container .amp-menu section[expanded] > h6 {
+  margin-right: -10px;
+  margin-left: initial;
+}
+
+.amp-wp-sidebar .sidebar-container .amp-menu a,
+.amp-wp-sidebar .sidebar-container .amp-menu span {
+  padding: 10px 20px 10px 0;
+}
+
+.amp-wp-sidebar .sidebar-container .amp-menu h6 span:after {
+  left: 0;
+  right: auto;
+}
+
+.amp-wp-sidebar .sidebar-container .amp-menu span.menu-item-deep.menu-item-deep {
+  padding: 0 25px 0 0;
+}
+
+.amp-wp-sidebar .sidebar-container .amp-menu i {
+  margin-left: 5px;
+  margin-right: initial;
+}

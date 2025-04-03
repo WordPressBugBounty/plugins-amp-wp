@@ -1,0 +1,49 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Post -> RTL
+--------------------------------------------------------------------------------*/
+.single-post .post-meta {
+  text-align: right;
+}
+
+.single-post .post-meta amp-img {
+  margin-left: 6px;
+  margin-right: initial;
+}
+
+/*--------------------------------------------------------------------------------
+# Post -> RTL -> Comments
+--------------------------------------------------------------------------------*/
+.amp-wp-comment-list ul ul {
+  padding: 0 30px 0 0;
+}
+
+.amp-wp-comments-wrapper .amp-btn.add-comment {
+  float: left;
+}
+
+.comment .column-1 {
+  float: right;
+}
+
+.comment .column-2 {
+  padding-right: 75px;
+  padding-left: 0;
+}
+
+.comment .comment-published {
+  margin-right: 10px;
+  margin-left: initial;
+}
+
+.comment .comment-footer a + a {
+  margin-right: 10px;
+  margin-left: initial;
+}

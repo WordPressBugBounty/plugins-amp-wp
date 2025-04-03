@@ -1,0 +1,2490 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: AMP WP\n"
+"POT-Creation-Date: 2021-08-19 20:47+0500\n"
+"PO-Revision-Date: 2019-11-18 07:46+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: amp-wp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-amp-wp-admin.php:142
+msgid "Visit AMP"
+msgstr ""
+
+#: admin/class-amp-wp-admin.php:160 admin/partials/amp-wp-admin-header.php:22
+msgid "Settings"
+msgstr ""
+
+#: admin/class-amp-wp-admin.php:169
+msgid "Share The Love!"
+msgstr ""
+
+#: admin/class-amp-wp-meta-box.php:34
+msgid "AMP WP Settings"
+msgstr ""
+
+#: admin/class-amp-wp-meta-box.php:54
+msgid "Disable AMP Version"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-add-ons.php:20
+msgid "New Premium Add-Ons"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:16
+msgid "Welcome"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:37
+#: admin/partials/welcome/amp-wp-admin-features.php:150
+#: includes/admin/welcome/class-amp-wp-getting-started.php:81
+#: includes/admin/welcome/class-amp-wp-getting-started.php:92
+msgid "Customize AMP Theme"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:50
+msgid "Add-Ons"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:56
+msgid "Help"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:62
+#: admin/partials/amp-wp-admin-system-status.php:18
+#: admin/partials/amp-wp-admin-system-status.php:570
+msgid "System Status"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/partials/amp-wp-admin-header.php:78
+msgid "AMP WP"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:82
+msgid "Installed: "
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:83
+#: admin/partials/amp-wp-admin-header.php:88
+#, php-format
+msgid "v%s"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:85
+msgid "|"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:87
+msgid "Latest: "
+msgstr ""
+
+#: admin/partials/amp-wp-admin-header.php:90
+msgid "Update(s) available!"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-help.php:18
+msgid ""
+"We are actively working on documentation and will add it here real soon."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-rating-box.php:38
+msgid "Share the Love!"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-rating-box.php:39
+msgid ""
+"Like our plugin? Please click here and leave us a 5-star feedback to make us "
+"happy and motivated to work on more cool features."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:20
+#: admin/partials/amp-wp-admin-system-status.php:572
+msgid "Get System Report"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:25
+msgid ""
+"Click the Get System Report button at the top right to produce a report, "
+"then copy and paste into your support ticket."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:29
+msgid "Copied!"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:29
+msgid "Copy for Support"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:36
+msgid "WordPress Environment"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:41
+msgid "Home URL"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:42
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:46
+msgid "Site URL"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:47
+msgid "The root URL of your site."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:51
+msgid "AMP WP Version"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:52
+msgid "The version of AMP WP installed on your site."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:56
+msgid "WordPress Version"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:57
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:76
+#, php-format
+msgid "%1$s - There is a newer version of WordPress available (%2$s)"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:84
+msgid "WordPress Multisite"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:85
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:89
+msgid "WordPress Memory Limit"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:90
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:95
+#, php-format
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:95
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:103
+msgid "WP Debug Mode"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:104
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:114
+msgid "WordPress Cron"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:115
+msgid "Displays whether or not WP Cron Jobs are enabled."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:125
+msgid "Language"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:126
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:130
+msgid "External Object Cache"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:131
+msgid "Displays whether or not WordPress is using an external object cache."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:148
+msgid "Server Environment"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:153
+msgid "Server Info:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:154
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:158
+msgid "PHP Version:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:159
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:165
+msgid "WordPress Requirements"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:169
+msgid ""
+"AMP WP will run under this version of PHP, however, it has reached end of "
+"life. We recommend using PHP version 7.2 or above for greater performance "
+"and security."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:171
+msgid ""
+"WordPress recommend PHP version 7.2 or above for greater performance and "
+"security."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:181
+msgid "PHP Post Max Size:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:182
+msgid "The largest file size that can be contained in one post."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:186
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:187
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#. translators: %1$s: Current value. %2$s: URL.
+#: admin/partials/amp-wp-admin-system-status.php:194
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180.<br />See: <a "
+"href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">Increasing max "
+"execution to PHP</a>"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:202
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:203
+#: admin/partials/amp-wp-admin-system-status.php:246
+#: admin/partials/amp-wp-admin-system-status.php:278
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#. translators: %1$s: Current value. $2%s: Recommended value. %3$s: URL.
+#: admin/partials/amp-wp-admin-system-status.php:226
+#: admin/partials/amp-wp-admin-system-status.php:269
+#: admin/partials/amp-wp-admin-system-status.php:301
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:234
+msgid "cURL version"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:235
+msgid "The version of cURL installed on your server."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:239
+msgid "SUHOSIN Installed:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:240
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself. If "
+"enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:245
+msgid "Suhosin Post Max Vars"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:277
+msgid "Suhosin Request Max Vars:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:309
+msgid "Suhosin Post Max Value Length:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:310
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+
+#. translators: %1$s: Current value. $2%s: Recommended value. %3$s: URL.
+#: admin/partials/amp-wp-admin-system-status.php:318
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:328
+msgid "ZipArchive:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:329
+msgid ""
+"ZipArchive is required for importing AMP WP Option Settings. They are used "
+"to import and export zip files."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:333
+msgid "MySQL Version:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:334
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:339
+#, php-format
+msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:339
+msgid "WordPress requirements"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:347
+msgid "Max Upload Size:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:348
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:352
+msgid "Default timezone is UTC"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:353
+msgid "The default timezone for your server."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:358
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:366
+msgid "DOMDocument:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:367
+msgid "DOMDocument is required for document traversing to properly function."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:374
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - HTML/Multipart emails, and "
+"also some extensions, will not work without DOMDocument."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:380
+msgid "GZip"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:381
+msgid "GZip (gzopen) is used to make your site load faster."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:388
+#, php-format
+msgid ""
+"Your server does not support the %s function - this is required to make your "
+"site load faster."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:394
+msgid "WP Remote Get:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:395
+#: admin/partials/amp-wp-admin-system-status.php:409
+msgid ""
+"AMP WP uses this method to communicate with different APIs, e.g. Google, "
+"Twitter, Facebook."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:402
+#: admin/partials/amp-wp-admin-system-status.php:416
+#, php-format
+msgid "%s failed. Contact your hosting provider."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:408
+msgid "WP Remote Post:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:422
+msgid "GD Library:"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:423
+msgid ""
+"AMP WP uses this library to resize images and speed up your site's loading "
+"time"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:426
+msgid "Not Installed"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:428
+msgid "Installed"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:445
+msgid "Theme"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:450
+#: includes/admin/settings/class-amp-wp-translation.php:135
+#: includes/admin/settings/class-amp-wp-translation.php:136
+#: includes/admin/settings/class-amp-wp-translation.php:137
+msgid "Name"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:451
+msgid "The name of the current active theme."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:455
+msgid "Version"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:456
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#. translators: %s: theme latest version
+#. translators: %s: parent theme latest version
+#: admin/partials/amp-wp-admin-system-status.php:463
+#: admin/partials/amp-wp-admin-system-status.php:504
+#, php-format
+msgid "%s is available"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:470
+msgid "Author URL"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:471
+msgid "The theme developers URL."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:476
+msgid "Child theme"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:477
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:484
+#, php-format
+msgid ""
+"If you are modifying AMP WP on a parent theme that you did not build "
+"personally we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:492
+msgid "Parent Theme Name"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:493
+msgid "The name of the parent theme."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:497
+msgid "Parent Theme Version"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:498
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:510
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:511
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:529
+msgid "Active Plugins"
+msgstr ""
+
+#: admin/partials/amp-wp-admin-system-status.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#. translators: plugin author.
+#: admin/partials/amp-wp-admin-system-status.php:556
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:18
+#: admin/partials/settings/amp-wp-admin-analytics.php:386
+#: admin/partials/welcome/amp-wp-admin-features.php:160
+#: includes/admin/welcome/class-amp-wp-getting-started.php:99
+msgid "Analytics"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:21
+#: admin/partials/settings/amp-wp-admin-analytics.php:389
+#: admin/partials/settings/amp-wp-admin-gdpr.php:19
+#: admin/partials/settings/amp-wp-admin-gdpr.php:90
+#: admin/partials/settings/amp-wp-admin-general.php:23
+#: admin/partials/settings/amp-wp-admin-general.php:181
+#: admin/partials/settings/amp-wp-admin-layout.php:22
+#: admin/partials/settings/amp-wp-admin-layout.php:360
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:19
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:57
+#: admin/partials/settings/amp-wp-admin-social-links.php:21
+#: admin/partials/settings/amp-wp-admin-social-links.php:186
+#: admin/partials/settings/amp-wp-admin-structured-data.php:19
+#: admin/partials/settings/amp-wp-admin-structured-data.php:57
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:19
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:74
+#: admin/partials/settings/amp-wp-admin-translation.php:21
+#: admin/partials/settings/amp-wp-admin-translation.php:309
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:26
+msgid ""
+"When a field is enabled below, an <strong>amp-analytics</strong> tag will be "
+"added to all AMP pages using the respective parameters you set for it below."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:32
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:43
+#: admin/partials/settings/amp-wp-admin-analytics.php:81
+#: admin/partials/settings/amp-wp-admin-analytics.php:112
+#: admin/partials/settings/amp-wp-admin-analytics.php:143
+#: admin/partials/settings/amp-wp-admin-analytics.php:174
+#: admin/partials/settings/amp-wp-admin-analytics.php:215
+#: admin/partials/settings/amp-wp-admin-analytics.php:256
+#: admin/partials/settings/amp-wp-admin-analytics.php:287
+#: admin/partials/settings/amp-wp-admin-analytics.php:318
+#: admin/partials/settings/amp-wp-admin-analytics.php:349
+#: admin/partials/settings/amp-wp-admin-gdpr.php:34
+#: admin/partials/settings/amp-wp-admin-layout.php:35
+#: admin/partials/settings/amp-wp-admin-layout.php:44
+#: admin/partials/settings/amp-wp-admin-layout.php:54
+#: admin/partials/settings/amp-wp-admin-layout.php:76
+#: admin/partials/settings/amp-wp-admin-layout.php:121
+#: admin/partials/settings/amp-wp-admin-layout.php:130
+#: admin/partials/settings/amp-wp-admin-layout.php:136
+#: admin/partials/settings/amp-wp-admin-layout.php:164
+#: admin/partials/settings/amp-wp-admin-layout.php:173
+#: admin/partials/settings/amp-wp-admin-layout.php:190
+#: admin/partials/settings/amp-wp-admin-layout.php:199
+#: admin/partials/settings/amp-wp-admin-layout.php:208
+#: admin/partials/settings/amp-wp-admin-layout.php:217
+#: admin/partials/settings/amp-wp-admin-layout.php:229
+#: admin/partials/settings/amp-wp-admin-layout.php:271
+#: admin/partials/settings/amp-wp-admin-layout.php:290
+#: admin/partials/settings/amp-wp-admin-layout.php:296
+#: admin/partials/settings/amp-wp-admin-layout.php:302
+#: admin/partials/settings/amp-wp-admin-layout.php:315
+#: admin/partials/settings/amp-wp-admin-layout.php:338
+#: admin/partials/settings/amp-wp-admin-layout.php:347
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:33
+#: admin/partials/settings/amp-wp-admin-social-links.php:37
+#: admin/partials/settings/amp-wp-admin-social-links.php:40
+#: admin/partials/settings/amp-wp-admin-social-links.php:55
+#: admin/partials/settings/amp-wp-admin-social-links.php:58
+#: admin/partials/settings/amp-wp-admin-social-links.php:91
+#: admin/partials/settings/amp-wp-admin-social-links.php:94
+#: admin/partials/settings/amp-wp-admin-social-links.php:109
+#: admin/partials/settings/amp-wp-admin-social-links.php:112
+#: admin/partials/settings/amp-wp-admin-social-links.php:127
+#: admin/partials/settings/amp-wp-admin-social-links.php:130
+#: admin/partials/settings/amp-wp-admin-social-links.php:145
+#: admin/partials/settings/amp-wp-admin-social-links.php:148
+#: admin/partials/settings/amp-wp-admin-social-links.php:163
+#: admin/partials/settings/amp-wp-admin-social-links.php:166
+#: admin/partials/settings/amp-wp-admin-structured-data.php:32
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:33
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:55
+msgid "&nbsp;"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:46
+msgid "Enter Tracking ID"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:70
+msgid "Facebook Pixel"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:84
+msgid "Enter Pixel ID"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:101
+msgid "Segment Analytics"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:115
+msgid "Enter Segment Key"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:132
+msgid "Quantcast Tracking"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:146
+msgid "Enter p-code"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:163
+msgid "Alexa Metrics"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:177
+msgid "Enter Alexa Metrics Account"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:187
+msgid "Enter Alexa Metrics Domain"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:204
+msgid "Chartbeat Analytics"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:218
+msgid "Enter Chartbeat Analytics ID"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:228
+msgid "Enter Chartbeat Domain"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:245
+msgid "comScore"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:259
+msgid "Enter C2"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:276
+msgid "Yandex Metrica"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:290
+msgid "Enter Counter ID "
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:307
+msgid "AFS Analytics"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:321
+msgid "Enter Website ID  "
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:338
+msgid "Adobe Analytics"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:352
+msgid "Enter Host Name"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-analytics.php:362
+msgid "Enter ReportSuite ID"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:16
+#: admin/partials/settings/amp-wp-admin-gdpr.php:87
+#: includes/admin/welcome/class-amp-wp-getting-started.php:120
+msgid "GDPR"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:25
+msgid "GDPR Compliance"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:29
+msgid "GDPR Compliance for EU Users"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:38
+msgid "Headline Text"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:43
+msgid "Message to Visitor"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:49
+msgid "Accept Button Text"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:54
+msgid "Reject Button Text"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:59
+msgid "For More Information"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:65
+msgid "Select the Privacy Page."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-gdpr.php:71
+msgid "Privacy Page Button Text"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:20
+#: admin/partials/settings/amp-wp-admin-general.php:178
+#: includes/admin/welcome/class-amp-wp-getting-started.php:64
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:29
+#: admin/partials/welcome/amp-wp-admin-features.php:170
+msgid "Enable/Disable AMP"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:33
+msgid "Enable AMP on Home Page"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:42
+msgid "Enable AMP on Search Page"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:55
+msgid "Disable AMP on Post Types"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:73
+msgid "Disable AMP on Taxonomies"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:87
+msgid "Exclude URLs From Auto Converting:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:91
+msgid ""
+"You can exclude URLs of your site to prevent converting them into AMP URL "
+"inside your site."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:92
+msgid ""
+"You can use <strong>*</strong> in the end of URL to exclude all URLs that "
+"start with it. e.g. <span class=\"pre\">//yoursite.com/test/*</span>"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:97
+msgid "Exclude AMP by URL:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:101
+msgid ""
+"You can disable AMP version of the page. e.g. /product/* will disable all "
+"amp pages starting with product in the URL."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:110
+msgid "AMP Permalink"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:114
+msgid "AMP URL Format"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:117
+msgid "Start Point - At the beginning of the URL"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:118
+msgid "End Point - At the end of the URL"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:121
+msgid "Start Point:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:122
+msgid "End Point:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:131
+msgid "Mobile Redirect"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:135
+msgid "Automatically Redirect Users to AMP Version:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:141
+msgid ""
+"This will automatically redirect all mobile users to the AMP version of the "
+"site."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:149
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-general.php:168
+msgid "More themes coming soon."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:19
+#: admin/partials/settings/amp-wp-admin-layout.php:357
+#: includes/admin/welcome/class-amp-wp-getting-started.php:71
+msgid "Layout Settings"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:27
+#: admin/partials/settings/amp-wp-admin-translation.php:26
+#: admin/partials/welcome/amp-wp-admin-features.php:34
+#: admin/partials/welcome/amp-wp-admin-features.php:36
+msgid "Header"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:31
+msgid "Show Search"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:40
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:49
+msgid "Show Sidebar"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:57
+#: admin/partials/settings/amp-wp-admin-layout.php:81
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:68
+#: admin/partials/settings/amp-wp-admin-translation.php:261
+#: admin/partials/welcome/amp-wp-admin-features.php:44
+#: admin/partials/welcome/amp-wp-admin-features.php:46
+msgid "Footer"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:72
+msgid "Show Non-AMP Version Link"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:91
+msgid "Home Page"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:95
+msgid "Home Page Layout"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:98
+#: admin/partials/settings/amp-wp-admin-layout.php:154
+msgid "Classic View"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:99
+#: admin/partials/settings/amp-wp-admin-layout.php:155
+msgid "List View"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:116
+msgid "Show Slider on Home Page"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:124
+msgid "Slider Posts Count"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:127
+msgid "Show Post Date in Slider"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:133
+msgid "Show Post Author in Slider"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:147
+msgid "Archive Page"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:151
+msgid "Archive Page Layout"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:160
+msgid "Show Author in Archive"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:169
+msgid "Show Date in Archive"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:182
+msgid "Single Post Page"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:186
+msgid "Show Thumbnail"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:195
+msgid "Show Author in Single"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:204
+msgid "Show Date in Single"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:213
+msgid "Show Tags in Single"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:224
+msgid "Show Share Box In Posts"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:232
+msgid "Show Share Count"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:234
+msgid "Show, Total share count"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:235
+msgid "Show, Total share count + Each site count"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:236
+msgid "No, Don't show."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:239
+msgid "Share Box Link Format"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:241
+msgid "Standard WordPress Permalink"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:242
+msgid "Short Link"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:245
+msgid "Select Social Sites to Share Link"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:255
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:266
+msgid "Show Related Posts"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:274
+msgid "Related Posts Count"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:277
+msgid "Related Posts Algorithm"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:279
+msgid "by Category"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:280
+msgid "by Tag"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:281
+msgid "by Author"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:282
+msgid "by Category & Tag"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:283
+msgid "by Category, Tag & Author"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:284
+msgid "by Random"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:287
+msgid "Show Thumbnails in Related Posts"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:293
+msgid "Show Date in Related Posts"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:299
+msgid "Show Author in Related Posts"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:311
+msgid "Show Comments"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:320
+msgid "Featured Video/Audio Meta Key"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:330
+msgid "Default Page"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:334
+msgid "Show Page Thumbnail"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-layout.php:343
+msgid "Show Share Box In Pages"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:16
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:24
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:54
+#: includes/admin/welcome/class-amp-wp-getting-started.php:113
+msgid "Notice Bar"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:28
+msgid "Show Notice Bar"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:36
+msgid "Enter Notice Bar Text"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-notice-bar.php:39
+msgid "Enter Notice Bar Button Text"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:18
+#: admin/partials/settings/amp-wp-admin-social-links.php:183
+#: includes/admin/welcome/class-amp-wp-getting-started.php:78
+msgid "Social Links"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:26
+msgid ""
+"When a field is enabled below, a <strong>Social Link</strong> will be added "
+"to Side Navigation using the respective parameters you set for it below."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:32
+#: public/partials/tez/components/social-list/social-links.php:51
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:50
+#: public/partials/tez/components/social-list/social-links.php:57
+msgid "Twitter"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:68
+msgid "Google Plus"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:86
+#: public/partials/tez/components/social-list/social-links.php:71
+msgid "Pinterest"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:104
+#: public/partials/tez/components/social-list/social-links.php:77
+msgid "Instagram"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:122
+#: public/partials/tez/components/social-list/social-links.php:83
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:140
+#: public/partials/tez/components/social-list/social-links.php:89
+msgid "YouTube"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-social-links.php:158
+#: includes/admin/settings/class-amp-wp-translation.php:142
+#: includes/admin/settings/class-amp-wp-translation.php:143
+#: includes/admin/settings/class-amp-wp-translation.php:144
+#: public/partials/tez/components/social-list/social-links.php:95
+msgid "Email"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-structured-data.php:16
+#: admin/partials/settings/amp-wp-admin-structured-data.php:54
+#: includes/admin/welcome/class-amp-wp-getting-started.php:127
+msgid "Structured Data"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-structured-data.php:27
+msgid "Enable Structured Data on Site"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-structured-data.php:35
+msgid "Schema Type for Post"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:16
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:71
+msgid "Third party Plugins Support"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:24
+#: admin/partials/settings/amp-wp-admin-translation.php:285
+msgid "OneSignal – Web Push Notifications"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:28
+msgid "Enable OneSignal on Site"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:36
+msgid "App ID"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:39
+msgid "Position"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:50
+msgid "HTTP Site"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-third-party-plugins-support.php:58
+msgid "Subdomain"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:18
+#: admin/partials/settings/amp-wp-admin-translation.php:306
+msgid "Translation"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:30
+msgid "Header:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:38
+msgid "Search"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:42
+msgid "Search on site:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:46
+msgid "Search input placeholder:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:50
+msgid "Search button:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:58
+msgid "Navigation"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:62
+msgid "Previous:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:66
+msgid "Next:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:70
+msgid "Page:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:74
+#, php-format
+msgid "of %d:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:77
+#, php-format
+msgid "%d will be replace with page number."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:85
+msgid "Archives"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:89
+msgid "Archive:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:93
+msgid "Browsing:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:97
+msgid "Browse Author Articles:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:100
+#: admin/partials/settings/amp-wp-admin-translation.php:143
+#, php-format
+msgid "%1$s1 is author name and %2$s2 is post publish date."
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:104
+msgid "Browsing category:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:108
+msgid "Browsing tag:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:112
+msgid "Browsing author:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:116
+msgid "Browsing yearly archive:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:120
+msgid "Browsing monthly archive:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:124
+msgid "Browsing daily archive:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:128
+msgid "Browsing archive:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:136
+msgid "Posts"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:140
+#, php-format
+msgid "By %1$s1 on %2$s2:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:147
+msgid "Share:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:151
+msgid "Large Listing Date Format:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:155
+msgid "Tags:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:159
+msgid "Related Posts:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:167
+msgid "Post Formats"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:171
+msgid "Asides:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:175
+msgid "Galleries:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:179
+msgid "Images:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:183
+msgid "Videos:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:187
+msgid "Quotes:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:191
+msgid "Links:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:195
+msgid "Statuses:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:199
+msgid "Audio:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:203
+msgid "Chats:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:211
+msgid "Attachment Texts"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:215
+msgid "Return to post:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:219
+msgid "Click here:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:223
+msgid "Play Video:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:227
+msgid "Play Audio:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:231
+msgid "Download File:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:235
+msgid "Next Attachment:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:239
+msgid "Previous Attachment:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:247
+#: admin/partials/welcome/amp-wp-admin-features.php:74
+#: admin/partials/welcome/amp-wp-admin-features.php:76
+#: includes/admin/settings/class-amp-wp-translation.php:65
+#: includes/admin/settings/class-amp-wp-translation.php:66
+#: includes/admin/settings/class-amp-wp-translation.php:67
+msgid "Comments"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:265
+msgid "View Desktop Version:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:273
+msgid "404 Page"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:277
+msgid "404 Page Message:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:289
+msgid "Subscribe:"
+msgstr ""
+
+#: admin/partials/settings/amp-wp-admin-translation.php:293
+msgid "Unsubsribe:"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-credits.php:15
+#: admin/partials/welcome/amp-wp-admin-credits.php:67
+msgid "Credits"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-credits.php:19
+msgid ""
+"AMP WP was developed with <span style=\"color: #d70000;\">&#10084;</span> by "
+"<a style=\"color: #d70000;\" href=\"#\">Pixelative</a>."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-credits.php:22
+msgid "Project Leaders:"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-credits.php:44
+msgid "Team:"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:15
+#: admin/partials/welcome/amp-wp-admin-features.php:271
+msgid "Features"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:20
+msgid ""
+"Automagically add Accelerated Mobile Page (Google AMP Project) functionality "
+"to your site. Make your site load 5X faster on mobile by using features of "
+"the open source AMP project."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:28
+msgid "UI Components:"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:38
+msgid ""
+"Header with search and native sidebar AMP component that includes "
+"<strong>Logo</strong>, <strong>Slogan</strong>, <strong>Menu</strong>, "
+"<strong>Social Links</strong> and <strong>Copyright message</strong>. Option "
+"to make header <strong>Sticky</strong>."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:48
+msgid ""
+"Footer that includes <strong>Menu</strong>, <strong>Social Icons</strong> "
+"and <strong>Copyright Message</strong>. Components can also be turned off "
+"from the settings panel."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:54
+msgid "Posts Slider"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:56
+msgid "Slider Support"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:58
+msgid ""
+"A slider which shows the <strong>Recent Posts</strong>. The slider can also "
+"be turned off from the settings panel."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:64
+#: admin/partials/welcome/amp-wp-admin-features.php:66
+msgid "Related Posts"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:68
+msgid ""
+"You can display related posts by <strong>Category</strong>, by <strong>Tag</"
+"strong>, by <strong>Category & Tag</strong>, by <strong>Category, Tag & "
+"Author</strong> or <strong>Randomly</strong> on single post's page. Can also "
+"be turned off."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:78
+msgid ""
+"You can display <strong>Recent Comments</strong> on single post page. They "
+"can also be turned off from the settings panel."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:84
+msgid "Post Listing Layouts"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:88
+msgid ""
+"Includes <strong>2 different layouts</strong> for listing posts on Home page "
+"and Archive page. Both can have different layouts, configured from the "
+"settings panel."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:94
+msgid "Gallery & Light Box"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:98
+msgid ""
+"Built-in support for the native <strong>WordPress Gallery Shortcode</strong> "
+"with a lightbox."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:103
+msgid "Embed Media"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:107
+msgid ""
+"Built-in support for <strong>Audios</strong>, <strong>Videos</strong>, "
+"<strong>iFrames</strong>, <strong>YouTube</strong>, <strong>Vimeo</strong>, "
+"<strong>Vine</strong>, <strong>Tweets</strong>, <strong>Facebook</strong>, "
+"<strong>SoundCloud</strong>, and <strong>Instagram Posts</strong>."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:112
+msgid "Native AMP Search"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:116
+msgid ""
+"Includes native AMP version for the <strong>Search Pages</strong>. The "
+"search link in header can also be turned off from the settings panel."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:122
+msgid "Share Box"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:126
+msgid ""
+"Built-in <strong>Native Social Sharing</strong> box for single post pages. "
+"Social sharing links can be configured from the settings panel."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:132
+msgid "Notice Bar & GDPR"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:136
+msgid ""
+"Built-in <strong>GDPR Compliance</strong>. Can also show a <strong>Notice "
+"Bar</strong> that can be used to display cookie policy notices."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:142
+msgid "Other Features:"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:149
+msgid "AMP Theme Customizer"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:153
+msgid "Highly flexible and easy-to-customize AMP theme."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:163
+msgid ""
+"3<sup>rd</sup> party analytics to track Visitors, e.g. Google Analytics, "
+"Facebook Pixel +8 more."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:173
+msgid ""
+"Enable/Disable AMP on Home Page, Search Page, Post Types or Specific URLs"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:180
+msgid "Show/Hide UI Components"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:183
+msgid "Easily show/hide UI components from the settings panel."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:190
+msgid "Auto Redirect Mobile Users to AMP"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:193
+msgid "Automatically redirect all mobile users to the AMP version of the site."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:200
+#: includes/admin/welcome/class-amp-wp-getting-started.php:106
+msgid "Translations"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:203
+msgid "Built-in support for translating your AMP theme."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:210
+msgid "100% Valid AMP"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:213
+msgid "100% Validated AMP components and theme."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:220
+msgid "100% RTL Compatible"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:223
+msgid "Built-in support for RTL version of your AMP theme."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:230
+msgid "AdSense Auto Ads"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:233
+msgid "Built-in support for integrating AdSense Auto Ads in your AMP theme."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:240
+msgid "100% Yoast SEO Compatible"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:243
+#, php-format
+msgid "100% compatibility with Yoast SEO plugin."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:250
+msgid "Internal AMP Linking"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:253
+msgid "All links in the AMP theme go to AMP version of your site."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:260
+msgid "Custom HTML/CSS"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-features.php:263
+msgid "Easily add custom HTML tags or CSS code in your AMP theme."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-getting-started.php:15
+#: admin/partials/welcome/amp-wp-admin-getting-started.php:48
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-getting-started.php:19
+msgid "Thank you for installing our plugin."
+msgstr ""
+
+#: admin/partials/welcome/amp-wp-admin-getting-started.php:20
+msgid "Please complete the following steps to configure the plugin:"
+msgstr ""
+
+#: amp-wp.php:40
+msgid "Google AMP For WordPress"
+msgstr ""
+
+#: includes/admin/class-amp-wp-add-ons.php:58
+msgid "AMP WP - Contact Form 7"
+msgstr ""
+
+#: includes/admin/class-amp-wp-add-ons.php:60
+msgid "Enable Contact Form 7 plugin support in AMP WP."
+msgstr ""
+
+#: includes/admin/class-amp-wp-add-ons.php:62
+msgid "Download"
+msgstr ""
+
+#: includes/admin/class-amp-wp-settings.php:129
+msgid "Settings saved."
+msgstr ""
+
+#: includes/admin/class-amp-wp-welcome.php:77
+msgid "Please Note: "
+msgstr ""
+
+#: includes/admin/class-amp-wp-welcome.php:82
+msgid ""
+"If you face any layout issues or your images appear to be smashed after "
+"installing/updating the plugin, then please install and activate <a href="
+"\"https://wordpress.org/plugins/regenerate-thumbnails/\" target=\"_blank"
+"\">Regenerate Thumbnails</a> plugin. After activating the plugin, go to "
+"<strong>Tools</strong> > <strong>Regenerate Thumbnails</strong> from the WP "
+"Admin sidebar and choose \"<strong>Regenerate Thumbnails For All "
+"Attachments</strong>\". This will re-generate all the theme generated sizes "
+"of all your images. "
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-analytics.php:49
+msgid "<i class=\"amp-wp-admin-icon-list\"></i><span>Analytics</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-gdpr.php:43
+msgid "<i class=\"amp-wp-admin-icon-information-white\"></i><span>GDPR</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-general.php:38
+msgid "Global theme"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-general.php:39
+msgid ""
+"Select design for your AMP pages, from the list of AMP WP theme plugins "
+"installed and activated.<br /><strong>Note:</strong>The AMP WP Customizer "
+"handles the built-in display. Additional AMP WP themes can be customized "
+"using their own customizers only."
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-general.php:45
+msgid "tez"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-general.php:69
+msgid "<i class=\"amp-wp-admin-icon-settings-1\"></i><span>General</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-layout.php:50
+msgid "<i class=\"amp-wp-admin-icon-compose\"></i><span>Layout</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-notice-bar.php:43
+msgid "<i class=\"amp-wp-admin-icon-notification\"></i><span>Notice Bar</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-social-links.php:43
+msgid "<i class=\"amp-wp-admin-icon-hyperlink\"></i><span>Social Links</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-structured-data.php:43
+msgid ""
+"<i class=\"amp-wp-admin-icon-grid-alt\"></i><span>Structured Data</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-third-party-plugins-support.php:43
+msgid ""
+"<i class=\"amp-wp-admin-icon-grid-alt\"></i><span>3rd Party Plugins</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:44
+msgid "<i class=\"amp-wp-admin-icon-globe-1\"></i><span>Translation</span>"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:58
+msgid "Comments Area"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:72
+#: includes/admin/settings/class-amp-wp-translation.php:73
+#: includes/admin/settings/class-amp-wp-translation.php:74
+msgid "Add Comment"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:79
+#: includes/admin/settings/class-amp-wp-translation.php:80
+#: includes/admin/settings/class-amp-wp-translation.php:81
+msgid "Edit Comment"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:86
+#: includes/admin/settings/class-amp-wp-translation.php:87
+#: includes/admin/settings/class-amp-wp-translation.php:88
+msgid "Leave a Reply"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:93
+#: includes/admin/settings/class-amp-wp-translation.php:94
+#: includes/admin/settings/class-amp-wp-translation.php:95
+#, php-format
+msgid "Reply To %s"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:100
+msgid "Thank You Message"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:101
+#: includes/admin/settings/class-amp-wp-translation.php:102
+msgid ""
+"Thank you for submitting comment, we will review it and will get back to you."
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:107
+#: includes/admin/settings/class-amp-wp-translation.php:108
+#: includes/admin/settings/class-amp-wp-translation.php:109
+msgid "Cancel reply"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:114
+#: includes/admin/settings/class-amp-wp-translation.php:115
+#: includes/admin/settings/class-amp-wp-translation.php:116
+msgid "Post Comment"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:121
+#: includes/admin/settings/class-amp-wp-translation.php:122
+#: includes/admin/settings/class-amp-wp-translation.php:123
+msgid "Logged in as"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:128
+#: includes/admin/settings/class-amp-wp-translation.php:129
+#: includes/admin/settings/class-amp-wp-translation.php:130
+msgid "Log Out"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:149
+#: includes/admin/settings/class-amp-wp-translation.php:150
+#: includes/admin/settings/class-amp-wp-translation.php:151
+msgid "Website"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:156
+#: includes/admin/settings/class-amp-wp-translation.php:157
+#: includes/admin/settings/class-amp-wp-translation.php:158
+msgid "Your email address will not be published."
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:163
+#: includes/admin/settings/class-amp-wp-translation.php:164
+#: includes/admin/settings/class-amp-wp-translation.php:165
+msgid "Required fields are marked"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:170
+#: includes/admin/settings/class-amp-wp-translation.php:171
+#: includes/admin/settings/class-amp-wp-translation.php:172
+msgid "Comment"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:177
+#: includes/admin/settings/class-amp-wp-translation.php:178
+#: includes/admin/settings/class-amp-wp-translation.php:179
+msgid "Previous"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:184
+#: includes/admin/settings/class-amp-wp-translation.php:185
+#: includes/admin/settings/class-amp-wp-translation.php:186
+msgid "Next"
+msgstr ""
+
+#: includes/admin/settings/class-amp-wp-translation.php:191
+#: includes/admin/settings/class-amp-wp-translation.php:192
+#: includes/admin/settings/class-amp-wp-translation.php:193
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-credits.php:45
+msgid "<i class=\"amp-wp-admin-icon-users\"></i><span>Credits</span>"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-credits.php:60
+msgid "Mohsin Rafique"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-features.php:44
+msgid "<i class=\"amp-wp-admin-icon-newspaper-alt\"></i><span>Features</span>"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:45
+msgid ""
+"<i class=\"amp-wp-admin-icon-settings-1\"></i><span>Getting Started</span>"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:60
+msgid "Configure General Settings"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:62
+msgid ""
+"To configure basic settings of the plugin, please click below to go to "
+"General settings panel. You can also set which pages you want to enable/"
+"disable the AMP version for e.g. <strong>Home Page</strong>, <strong>Search "
+"Page</strong>, <strong>Post Types</strong>, <strong>Taxonomies</strong>, or "
+"<strong>Custom URLs</strong> from this panel."
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:67
+msgid "Configure Layout Settings"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:69
+msgid ""
+"To show/hide different layout components, e.g. <strong>Slider</strong>, "
+"<strong>Share Box</strong>, <strong>Comments</strong>, <strong>Authors</"
+"strong>, <strong>Dates</strong>, and <strong>Tags</strong> etc., please "
+"click below to go to the Layout settings panel. You can also choose the "
+"<strong>Post Listing Layout</strong> from this panel."
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:74
+msgid "Configure Social Links"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:76
+msgid ""
+"To configure Social Links in Side Navigation, please click below to go to "
+"Social Links settings panel."
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:83
+msgid ""
+"To brand your AMP theme, such as, <strong>logo</strong>, <strong>color "
+"scheme</strong> and <strong>typography</strong>, please click below to go to "
+"the Customize AMP Theme page. You can also set the <strong>Default Front "
+"Page</strong> for the AMP version and add <strong>Custom HTML/CSS</strong> "
+"from the customizer."
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:95
+msgid "Install Analytics"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:97
+msgid ""
+"To install analytics code e.g. <strong>Google Analytics</strong>, "
+"<strong>Facebook Pixel</strong>, <strong>Segment Analytics</strong>, "
+"<strong>Alexa Metrics</strong>, <strong>Yandex Metrica</strong>, etc. please "
+"click below to go to Analytics settings panel."
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:102
+msgid "Set Translations"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:104
+msgid ""
+"To set global <strong>Translations</strong> and <strong>Labels</strong> for "
+"your theme, please click below to go to Translations settings panel."
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:109
+msgid "Configure Notice Bar"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:111
+msgid ""
+"To configure a site-wide <strong>notice bar</strong>, please click below to "
+"go to Notice Bar settings panel."
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:116
+msgid "Configure GDPR"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:118
+msgid ""
+"To ensure you comply with the <strong>GDPR</strong> policies for EU users, "
+"please click below to go to GDPR settings panel."
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:123
+msgid "Configure Structured Data"
+msgstr ""
+
+#: includes/admin/welcome/class-amp-wp-getting-started.php:125
+msgid ""
+"Add Google Rich Snippets markup according to Schema.org guidelines to "
+"structure your AMP site for SEO."
+msgstr ""
+
+#. translators: %s - URL to a non-amp version of a page with the form.
+#: includes/class-amp-wp-plugin-compatibility.php:912
+#, php-format
+msgid "<a href=\"%s\">Go to the full page</a> to view and submit the form."
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:248
+msgid "AMP WP Theme"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:249
+msgid "Setup AMP WP Options."
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:293
+msgid "Homepage Settings"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:305
+msgid "Color"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:317
+msgid "Custom CSS Code"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:329
+msgid "Custom HTML Code"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:359
+msgid "Presets"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:377
+msgid "Header Presets"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:382
+msgid "Logo Left - Simple"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:386
+msgid "Logo Center - Simple"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:408
+msgid "Layout"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:428
+msgid "Height (px)"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:454
+msgid "Top Nav"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:473
+#: includes/customizer/amp-wp-core-customizer.php:591
+msgid "Text Logo"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:525
+#: includes/customizer/amp-wp-core-customizer.php:624
+msgid "Logo"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:532
+#: includes/customizer/amp-wp-core-customizer.php:537
+#: includes/customizer/amp-wp-core-customizer.php:631
+#: includes/customizer/amp-wp-core-customizer.php:636
+msgid "Select logo"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:533
+#: includes/customizer/amp-wp-core-customizer.php:632
+msgid "Change logo"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:534
+#: includes/customizer/amp-wp-core-customizer.php:633
+msgid "Remove"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:535
+#: includes/customizer/amp-wp-core-customizer.php:634
+msgid "Default"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:536
+#: includes/customizer/amp-wp-core-customizer.php:635
+msgid "No logo selected"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:538
+#: includes/customizer/amp-wp-core-customizer.php:637
+msgid "Choose logo"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:571
+msgid "Side Nav"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:676
+msgid "You can choose what’s displayed on the homepage of your amp site."
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:681
+msgid "Your Latest Posts"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:682
+msgid "A Static Page (Select Below)"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:711
+msgid "Front Page"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:745
+msgid "Theme Color"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:774
+msgid "Header Text Color"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:803
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:832
+msgid "Text Color"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:861
+msgid "Background Color"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:890
+msgid "Footer Navigation Background Color"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:919
+msgid "Footer Copyright Text Background Color"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:974
+msgid "Codes between &#x3C;head&#x3E; and &#x3C;/head&#x3E; tags"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:978
+#: includes/customizer/amp-wp-core-customizer.php:995
+#: includes/customizer/amp-wp-core-customizer.php:1012
+msgid ""
+"Please be careful. Bad codes can make invalidation issue for your AMP pages."
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:991
+msgid "Codes right after &#x3C;body&#x3E; tag"
+msgstr ""
+
+#: includes/customizer/amp-wp-core-customizer.php:1008
+msgid "Codes right before &#x3C;/body&#x3E; tag"
+msgstr ""
+
+#: includes/customizer/class-amp-wp-customize-slider-control.php:40
+msgid "Reset"
+msgstr ""
+
+#: includes/customizer/class-amp-wp-customize.php:42
+#: includes/customizer/class-amp-wp-customize.php:43
+msgctxt "amp-wp"
+msgid "Customize AMP Theme"
+msgstr ""
+
+#: includes/functions/amp-wp-core-functions.php:292
+#, php-format
+msgid "Do not pass %1$s tags to %2$s."
+msgstr ""
+
+#: includes/functions/amp-wp-core-functions.php:331
+msgid "invalid component class name."
+msgstr ""
+
+#: includes/functions/amp-wp-core-functions.php:337
+#, php-format
+msgid "Error! class %1$s must implements %2$s contracts!"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:26
+msgid "AMP Sidebar"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:27
+msgid "AMP Footer Menu"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:326
+#: includes/functions/amp-wp-template-functions.php:1078
+msgid "This website uses cookies."
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:327
+#: includes/functions/amp-wp-template-functions.php:332
+#: includes/functions/amp-wp-template-functions.php:1079
+#: includes/functions/amp-wp-template-functions.php:1115
+msgid "Accept"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:329
+msgid "Headline"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:330
+msgid "This is GDPR Message."
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:331
+msgid "This is the message that you want to share with the audience."
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:333
+#: includes/functions/amp-wp-template-functions.php:1116
+msgid "Reject"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:334
+msgid "For More Information About Privacy"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:335
+msgid "Text Before the Privacy Page Button."
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:336
+msgid "--Select--"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:337
+msgid "Select the Privacy Page to Display."
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:338
+msgid "Click Here"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:343
+msgid "Subscribe to updates"
+msgstr ""
+
+#: includes/functions/amp-wp-template-functions.php:344
+msgid "Unsubscribe from updates"
+msgstr ""
+
+#: includes/functions/amp-wp-theme-functions.php:235
+msgid "Default Template"
+msgstr ""
+
+#: includes/functions/amp-wp-theme-functions.php:1751
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: includes/functions/amp-wp-theme-functions.php:1755
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: includes/functions/amp-wp-theme-functions.php:1759
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: includes/functions/amp-wp-theme-functions.php:1807
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: public/partials/tez/404.php:25
+msgid "404"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:37
+msgid "AMP WP Ads"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:44
+msgid "Header Ads"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:51
+msgid "After Header"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:52
+msgid "<code>Note:</code> This ad will be shown after header in all AMP pages."
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:60
+msgid "Post Ads"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:67
+msgid "Before Post Title"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:77
+msgid "After Post Title"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:87
+msgid "Above Post Content"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:101
+msgid "Inside Post Content (After X Paragraph)"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:102
+msgid ""
+"Add inline adds inside post content. <br>You can add multiple inline adds "
+"for multiple location of post content."
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:103
+msgid "Add New Inline Ad"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:104
+msgid "Inline Ad"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:109
+msgid "After Paragraph"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:111
+#: public/partials/tez/amp-wp-ads-manager/ads.php:202
+msgid ""
+"Content of each post will analyzed and it will inject an ad after the "
+"selected number of paragraphs."
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:112
+#: public/partials/tez/amp-wp-ads-manager/ads.php:203
+msgid "After how many paragraphs the ad will display."
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:123
+msgid "Middle Post Content"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:133
+msgid "Below Post Content"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:143
+msgid "After Comments & Share Section"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:154
+msgid "Footer Ads"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:161
+msgid "Footer Ad"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:162
+msgid ""
+"<code>Note:</code> This ad will be shown before footer in all AMP pages."
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:173
+msgid "Archive Page Ads"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:180
+msgid "After Archive Page Title"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:181
+msgid ""
+"<code>Note:</code> This ad will be shown after archive page title (category, "
+"tag...)"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:192
+msgid "After X Posts"
+msgstr ""
+
+#: public/partials/tez/amp-wp-ads-manager/ads.php:200
+msgid "After Each X Posts"
+msgstr ""
+
+#: public/partials/tez/sidebar.php:61
+msgid "Select a menu for \"AMP Sidebar\""
+msgstr ""
+
+#: public/partials/tez/single-post/description.php:25
+msgid "Pages:"
+msgstr ""
+
+#: public/partials/tez/single-post/description.php:29
+msgid "Page"
+msgstr ""
+
+#: public/partials/tez/woocommerce/cart/cart.php:32
+#: public/partials/tez/woocommerce/cart/cart.php:71
+msgid "Product"
+msgstr ""
+
+#: public/partials/tez/woocommerce/cart/cart.php:33
+#: public/partials/tez/woocommerce/cart/cart.php:90
+msgid "Price"
+msgstr ""
+
+#: public/partials/tez/woocommerce/cart/cart.php:34
+#: public/partials/tez/woocommerce/cart/cart.php:93
+msgid "Quantity"
+msgstr ""
+
+#: public/partials/tez/woocommerce/cart/cart.php:35
+#: public/partials/tez/woocommerce/cart/cart.php:109
+msgid "Total"
+msgstr ""
+
+#: public/partials/tez/woocommerce/cart/cart.php:55
+msgid "Remove this item"
+msgstr ""
+
+#: public/partials/tez/woocommerce/cart/cart.php:86
+msgid "Available on backorder"
+msgstr ""
+
+#: public/partials/tez/woocommerce/cart/proceed-to-checkout-button.php:24
+msgid "Proceed to checkout"
+msgstr ""
+
+#: public/partials/tez/woocommerce/loop.php:24
+msgid "No Image"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/amp-wp"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Automagically add Google AMP functionality to your site. Tons of Premium "
+"Features for FREE. Enable/Disable Post Types, Categories, and Tags."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pixelative, Mohsin Rafique"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://pixelative.co"
+msgstr ""

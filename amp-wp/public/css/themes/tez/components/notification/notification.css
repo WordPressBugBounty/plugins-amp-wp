@@ -1,0 +1,26 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# AMP WP User Notification
+--------------------------------------------------------------------------------*/
+amp-user-notification {
+  padding: 10px 0;
+  text-align: center;
+  background: #fff;
+  border-top: 1px solid #e2e2e2;
+}
+
+amp-user-notification p {
+  display: inline-block;
+  margin: 0;
+}
+
+amp-user-notification button {
+  cursor: pointer;
+}

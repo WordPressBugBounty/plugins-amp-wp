@@ -1,0 +1,55 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Attachment Page
+--------------------------------------------------------------------------------*/
+.single-post.attachment .post-title {
+  margin: 15px 0;
+}
+
+.single-post.attachment .return-to .button {
+  margin-bottom: 15px;
+  padding-left: 35px;
+  position: relative;
+}
+
+.single-post.attachment .return-to .fa {
+  display: inline-block;
+  left: 8px;
+  top: 50%;
+  margin-top: -10px;
+  height: 20px;
+  line-height: 20px;
+  width: 20px;
+  position: absolute;
+  text-align: center;
+}
+
+.single-post.attachment .listing-attachment-siblings {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.single-post.attachment .listing-attachment-siblings .listing-item {
+  float: left;
+  margin-right: 10px;
+}
+
+.single-post.attachment .listing-attachment-siblings .listing-item amp-img {
+  -webkit-transition: all 0.6s ease;
+  -moz-transition: all 0.6s ease;
+  -o-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+}
+
+.single-post.attachment .listing-attachment-siblings .listing-item amp-img:hover {
+  opacity: 0.8;
+  -webkit-filter: grayscale(100%);
+}

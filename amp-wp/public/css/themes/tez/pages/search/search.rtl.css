@@ -1,0 +1,15 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Search Page -> RTL
+--------------------------------------------------------------------------------*/
+.search-form .search-submit {
+  left: 0;
+  right: auto;
+}

@@ -1,0 +1,47 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*--------------------------------------------------------------------------------
+# Gutenberg File
+--------------------------------------------------------------------------------*/
+.wp-block-file {
+  margin-bottom: 1.5em;
+}
+
+.wp-block-file.aligncenter {
+  text-align: center;
+}
+
+.wp-block-file.alignright {
+  /*rtl:ignore*/
+  text-align: right;
+}
+
+.wp-block-file .wp-block-file__button {
+  background: #32373c;
+  border-radius: 2em;
+  color: #fff;
+  font-size: 13px;
+  padding: 0.5em 1em;
+}
+
+.wp-block-file a.wp-block-file__button {
+  text-decoration: none;
+}
+
+.wp-block-file a.wp-block-file__button:hover, .wp-block-file a.wp-block-file__button:visited, .wp-block-file a.wp-block-file__button:focus, .wp-block-file a.wp-block-file__button:active {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #fff;
+  opacity: 0.85;
+  text-decoration: none;
+}
+
+.wp-block-file * + .wp-block-file__button {
+  margin-left: 0.75em;
+}

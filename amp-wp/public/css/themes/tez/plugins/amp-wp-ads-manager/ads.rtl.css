@@ -1,0 +1,69 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*------------------------------------------------------------------------------
+## 2 -> Ads Container
+------------------------------------------------------------------------------*/
+.rtl .amp-wp-ads-manager .amp-wp-ads-manager-container {
+  direction: rtl;
+}
+
+.amp-wp-ads-manager.amp-wp-ads-manager-align-left {
+  text-align: left;
+}
+
+.amp-wp-ads-manager.amp-wp-ads-manager-align-right {
+  text-align: right;
+}
+
+.amp-wp-ads-manager.amp-wp-ads-manager-float-right {
+  float: right;
+  margin-left: 20px;
+  margin-right: initial;
+}
+
+.amp-wp-ads-manager.amp-wp-ads-manager-float-left {
+  float: left;
+  margin-right: 20px;
+  margin-left: initial;
+}
+
+/*------------------------------------------------------------------------------
+## 4 -> Columns
+------------------------------------------------------------------------------*/
+/* 2 column */
+.amp-wp-ads-manager.amp-wp-ads-manager-column-2 .amp-wp-ads-manager-container {
+  float: right;
+}
+
+.amp-wp-ads-manager.amp-wp-ads-manager-column-2 .amp-wp-ads-manager-container:nth-of-type(odd) {
+  padding-left: 5px;
+  clear: right;
+  padding-right: 0;
+}
+
+.amp-wp-ads-manager.amp-wp-ads-manager-column-2 .amp-wp-ads-manager-container:nth-of-type(even) {
+  padding-right: 5px;
+  padding-left: 0;
+}
+
+/* 3 column */
+.amp-wp-ads-manager.amp-wp-ads-manager-column-3 .amp-wp-ads-manager-container {
+  float: right;
+}
+
+.amp-wp-ads-manager.amp-wp-ads-manager-column-3 .amp-wp-ads-manager-container:nth-child(3n-2) {
+  padding-left: 6px;
+  clear: right;
+  padding-right: 0;
+}
+
+.amp-wp-ads-manager.amp-wp-ads-manager-column-3 .amp-wp-ads-manager-container:nth-child(3n + 3) {
+  padding-right: 6px;
+  padding-left: 0;
+}

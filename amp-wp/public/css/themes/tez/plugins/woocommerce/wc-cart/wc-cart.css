@@ -1,0 +1,52 @@
+/*
+Authors: Arslan Akram, Mohsin Rafique
+Author URI: https://pixelative.co
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl_2.0.html
+Created on: 27_Jun_2018, 03:08:04
+*/
+/*
+ * =>Cart Page
+ */
+.woocommerce table.shop_table {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 0 -1px 24px 0;
+  text-align: left;
+  width: 100%;
+  border-collapse: separate;
+  border-radius: 5px;
+}
+
+.woocommerce table.shop_table th {
+  font-weight: 700;
+  padding: 9px 12px;
+}
+
+.woocommerce table.shop_table td {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 6px 12px;
+  vertical-align: middle;
+}
+
+.woocommerce table.shop_table td small {
+  font-weight: 400;
+}
+
+.woocommerce table.shop_table tbody:first-child tr:first-child td,
+.woocommerce table.shop_table tbody:first-child tr:first-child th {
+  border-top: 0;
+}
+
+.woocommerce table.shop_table tbody th,
+.woocommerce table.shop_table tfoot td,
+.woocommerce table.shop_table tfoot th {
+  font-weight: 700;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.woocommerce .product-name a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #111;
+}
